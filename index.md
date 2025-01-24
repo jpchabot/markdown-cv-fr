@@ -36,6 +36,16 @@ Gestion des releases & des environnements
 
 Gestion de Jira & Confluence
 
+## Technos
+### Langages
+JavaScript, SQL, HTML, CSS, Java
+
+### Outils & Plateformes
+Postman, newman, Zephyr, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kubernetes, Rancher, Snowflake, Azure DevOps, JFrog, Jmeter, Gherkin, cucumber, Selenium, Cypress, SpecFlow, Robot Framework
+
+## Langues
+100% bilingue anglais français
+
 ## Expériences
 
 `2023-2024`
@@ -106,12 +116,6 @@ __EA Mobile__
 - • Veiller au respect des différents processus internes par les testeurs. 
 - • Acquérir de l’expérience sur plusieurs plateformes de développement : application Web, iPhone, J2ME, BREW.
 
-`2007 (6 mois)`
-__Provigo Centre de Distribution__
-- _Préparateur de commandes_
--  
-- • Préparer les commandes destinées aux épiceries à l’aide d’un transpalette électrique.
-
 `2006-2007`
 __Bug-Tracker__
 - _Testeur et Test Lead_
@@ -130,15 +134,6 @@ __Ubisoft__
 - • Documenter les bogues dans la base de données du projet.
 - • Participer à plusieurs projets sur différentes plateformes (PC, PS2, Xbox 360, GameBoy Advance, Nintendo DS).
 
-## Langues
-100% bilingue anglais français
-
-## Technos
-### Langages
-JavaScript, SQL, HTML, CSS, Java
-
-### Outils & Plateformes
-Postman, newman, Zephyr, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kubernetes, Rancher, Snowflake, Azure DevOps, JFrog, Jmeter, Gherkin, cucumber, Selenium, Cypress, SpecFlow, Robot Framework
 
 <!-- ### Footer
 
