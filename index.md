@@ -3,6 +3,7 @@ layout: cv
 title: Jean-Philippe Chabot's CV
 ---
 # Jean-Philippe Chabot
+<br>
 Analyste en Assistance Qualité
 
 <div id="webaddress">
