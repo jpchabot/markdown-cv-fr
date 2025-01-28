@@ -6,8 +6,8 @@ title: Jean-Philippe Chabot's CV
 Analyste en Assistance Qualité
 
 <div id="webaddress">
-<a href="jeanphilippe.chabot@gmail.com">jeanphilippe.chabot@gmail.com</a>
-| <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR1djVpa3I3eWhxdDYzd212NzNqcWNoa29vNGNoeTB1dHJhZGEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KwU7HpvgpMrOE/giphy.gif">(438) 765-3456</a> | <a href="https://www.linkedin.com/in/jean-philippe-chabot-2b0a7282/">
+<a href="mailto:jeanphilippe.chabot@gmail.com">jeanphilippe.chabot@gmail.com</a>
+| <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25kOXY3eDdhOXFuajV6azN1aWkzNDhvcXo0cHZqbDhhNnh1bGU5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KwU7HpvgpMrOE/giphy.gif" target="_blank">(438) 765-3456</a> | <a href="https://www.linkedin.com/in/jean-philippe-chabot-2b0a7282/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;">
 </a>
 </div>
@@ -15,7 +15,7 @@ Analyste en Assistance Qualité
 
 ## Qui suis-je
 
-Un passionné des technologies, impliqué dans le QA depuis une vingtaine d'années, qui croit en une approche globale reposant avant tout sur l'entraide et la communication. Je me colle à la réalité des devs et autres métiers afin de les supporter dans leurs activités, de la compréhension du besoin jusqu'à la livraison. J'estime que la confiance est un facteur principal dans l'efficacité d'une équipe et que mon rôle est d'augmenter la confiance en nos livrables et processus en amenant des solutions pratiques, créatives et adaptées à notre contexte. Étant aussi papa de quatres enfants à qui ma femme et moi faisons l'école-maison, j'ai à coeur les principes d'apprentissage en continu, du droit à l'erreur et de la bienveillance.
+Un passionné des technologies, impliqué dans le QA depuis une vingtaine d'années, qui croit en une approche élargie reposant avant tout sur l'entraide et la communication. Je me colle à la réalité des développeurs et autres métiers afin de les supporter dans leurs activités, de la compréhension du besoin jusqu'à la livraison. J'estime que la confiance est un facteur principal dans l'efficacité d'une équipe et que mon rôle est d'augmenter la confiance en nos livrables et processus en amenant des solutions pratiques, créatives et adaptées à notre contexte. Étant aussi papa de quatre enfants à qui ma femme et moi faisons l'école-maison, j'ai à coeur les principes d'apprentissage en continu, du droit à l'erreur et de la bienveillance.
 
 ### Spécialisé dans
 
@@ -24,7 +24,7 @@ L'élaboration, l'implémentation et l'exécution de stratégies QA dans un cadr
 
 ### Autres skillsets
 
-Analyse fonctionnelle & d'affaires
+Analyse fonctionnelle et d'affaires
 
 Analyse de données
 
@@ -32,19 +32,19 @@ Automatisation
 
 Méthodologies Agiles
 
-Gestion des releases & des environnements
+Gestion des livraisons et des environnements
 
-Gestion de Jira & Confluence
+Gestion de Jira et Confluence
 
 ## Technos
 ### Langages
 JavaScript, SQL, HTML, CSS, Java
 
-### Outils & Plateformes
-Postman, newman, Zephyr, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kubernetes, Rancher, Snowflake, Azure DevOps, JFrog, Jmeter, Gherkin, cucumber, Selenium, Cypress, SpecFlow, Robot Framework
+### Outils et plateformes
+Postman, newman, Zephyr, TestRail, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kubernetes, Rancher, Snowflake, Azure DevOps, JFrog, Jmeter, Gherkin, cucumber, Selenium, Cypress, SpecFlow, Robot Framework
 
 ## Langues
-100% bilingue anglais français
+100% bilingue anglais et français
 
 ## Expériences
 
@@ -52,87 +52,86 @@ Postman, newman, Zephyr, Jira, Confluence, Git, Gitlab, Jenkins, Docker, Kuberne
 __RONA__ (en tant que conseiller Levio)
 - _Lead QA_
 -  
-- • Définir la stratégie de test globale du projet Lift&Shift et guider les activités des autres QAs.
-- • Élaborer et mettre en pratique le modèle de travail des équipes Levio et Rona: cycle de développement, workflow Jira, dashboards et rituels.
+- • Définir et exécuter la stratégie QA pour sortir la plateforme _POS (point of sale)_ de l'écosystème Lowe's et la réimplémenter dans la nouvelle infrastructure Rona.
+- • Accompagner les équipes TI du client afin qu'elles s'approprient la nouvelle implémentation du _POS_.
+- • Élaborer et mettre en pratique le modèle de travail des équipes Levio et Rona: cycle de développement, workflow Jira, tableaux de bord et rituels.
 - • Préparer et animer le stand-up quotidien, les démos, rétros et groomings.
-- • Préparer les releases: gestion des branches, des merges, des approbations des stakeholders et planification des déploiements avec DevOps.
-- • Groomer les livrables avec les Devs: critères d’acceptation, requis techniques, stratégie de test.
+- • Préparer les features et correctifs: critères d’acceptation, requis techniques et stratégie de test.
+- • Préparer les livraisons: gestion des branches et des merges, des approbations des parties prenantes et planification des déploiements.
 - • Fournir à l'ingénieur QA les règles d’affaires et requis techniques pour l’automatisation de scénarios bout-en-bout.
-- • Exécuter les tests manuels et les tests Postman automatisés.
+- • Exécuter les tests manuels et les tests Postman automatisés, et en faire la maintenance.
 
 `2022 (9 mois)`
 __Banque Nationale__ (en tant que conseiller Levio)
 - _Analyste de données_
 -  
-- • Participer aux efforts d’amélioration de la qualité de la donnée du data lake pour une équipe d'intelligenge d’affaires et de machine learning.
-- • Définir avec l’équipe le range de valeurs attendues dans nos bases de données, permettant ainsi d’identifier la mauvaise donnée.
-- • Bâtir des requêtes dans l’interface Snowflake afin de détecter les erreurs et problèmes d’injection de données.
-- • Supporter l’ingénieur de données dans le débogage et la correction des scripts d’injection.
-- • Planifier et exécuter des tests de validation des correctifs.
+- • Améliorer la qualité de la donnée du _data lake_ pour une équipe d'intelligence d’affaires et de modélisation prédictive.
+- • Analyser l'étendue des données et déceler les problèmes d'injection, de transformation ou à la source.
+- • Bâtir des requêtes dans l’interface Snowflake afin de reproduire les erreurs et trouver des correctifs.
+- • Planifier et exécuter des tests de validation des changements et des correctifs.
 
 `2018-2022`
 __Société Radio-Canada__
 - _Analyste QA_
 -  
-- • Documenter et assurer le suivi des anomalies découvertes sur les composantes frontend, backend, mobiles et externes d’ICI TOU.TV. 
-- • Participer à l’élaboration et au raffinement des processus d’équipe en lien avec la qualité, le développement et le workflow. 
-- • Exécuter différentes tâches généralement prises en charge par les développeurs, les analystes d’affaires et les chargés de projet. 
-- • Contribuer à la mise en place et à l’exploitation d’un cadre de tests automatisés pour les systèmes backend d’abonnements et de gestion de comptes. 
-- • Encadrer et accompagner des collègues analystes QA sur plusieurs mois.
+- • Assurer le QA des composants frontends et backends des plateformes web et mobiles d’_ICI TOU.TV_.
+- • Définir les critères d'acceptation et la stratégie de test des changements fonctionnels.
+- • Tester manuellement les UIs et les APIs de la plateforme et leurs interactions avec les bases de données, CMS et autres APIs.
+- • Contribuer à la mise en place et à l’exploitation d’un framework d'automatisation des tests backends pour les systèmes d’abonnements et de gestion de comptes.
+- • Agrandir et maintenir la base de cas de test.
+- • Élaborer et raffiner les processus liés à la qualité.
+- • Accompagner et conseiller des analystes QA sur plusieurs mois.
 
 `2013-2018`
 __La Presse__
 - _Analyste QA_
 -  
-- • Concevoir, développer et exécuter des plans et jeux de tests pour les diverses composantes de l’écosystème LP+. 
-- • Documenter les anomalies et en assurer le suivi. 
-- • Participer à l’élaboration et au raffinement du processus de contrôle qualité pour les projets.
+- • Assurer le QA des apps _LP+_ ainsi que des divers composants de leur écosystème, tels que les outils d'assemblage et de publication des éditions, de mise en page du contenu et de la plateforme publicitaire.
+- • Définir les critères d'acceptation et la stratégie de test des changements fonctionnels.
+- • Tester manuellement les UIs et les APIs de l'écosystème à des fins de validation et de découverte d'anomalies.
+- • Agrandir et maintenir la base de cas de test.
+- • Participer à l’élaboration et au raffinement des processus liés à la qualité.
 
 `2010-2013`
 __Bell Télé__
 - _Agent Bell Fibe_
 -  
-- • Fournir toute information pertinente sur le produit aux clients potentiels et actifs. 
-- • Assurer la résolution des problèmes de facturation, de compte et des diverses difficultés techniques rencontrées par les clients, autant avec l’Internet que la télévision. 
+- • Recevoir les appels des clients pour résoudre les problèmes techniques de la télé et de l'internet _Bell Fibe_, et de la télé satellite _Bell Télé_, via les outils internes ou en guidant le client.
+- • Résoudre les problèmes de compte, d'installation et de facturation acheminés par les autres lignes. 
 - • Prendre en charge occasionnellement des appels destinés aux superviseurs. 
 - • Améliorer les connaissances des collègues à l’aide de sessions d’encadrement personnelles. 
-- • Cibler les processus défaillants et améliorer leur efficacité ou, dans le cas de processus inexistants, aider l’équipe à en mettre en place.
+- • Cibler les processus défaillants ou inexistants et aider l'équipe à les améliorer ou à les mettre en place.
 
 `2009-2010`
 __Services de Gestion Bell Internet__
 - _Technicien service complet_
 -  
-- • Résoudre tout problème technique avancé acheminé par les agents de première ligne. 
-- • Assurer le soutien logiciel (navigateur, courriel, antivirus, pare-feu, coffre-fort, etc.) et périphérique (iPhone, imprimantes, consoles de jeux). 
-- • Coordonner les rendez-vous avec les techniciens et l’équipe de gestion des réseaux pour tout problème physique sur les lignes.
+- • Recevoir les appels des clients acheminés par les autres lignes pour résoudre les problèmes techniques avancés des services de _Bell Internet_. 
+- • Assurer le soutien technique logiciel (navigateur, courriel, antivirus, pare-feu, coffre-fort, etc.) et matériel (modem/routeur, PC, appareil mobile, imprimante, console de jeux) des utilisateurs. 
+- • Coordonner les rendez-vous avec les techniciens et l’équipe d'infrastructure pour tout problème physique sur les lignes.
 
 `2008 (1 an)`
 __EA Mobile__
 - _Testeur et Test Lead_
 -  
-- • S’assurer que les jeux approuvés au département QA respectent les standards de qualité exigés par l’entreprise. 
-- • Veiller au respect des différentes contraintes spécifiques à chacune des plateformes pour lesquelles le jeu sera développé. 
-- • Gérer et répondre aux problèmes susceptibles d’être rencontrés par les testeurs. 
-- • Veiller au respect des différents processus internes par les testeurs. 
-- • Acquérir de l’expérience sur plusieurs plateformes de développement : application Web, iPhone, J2ME, BREW.
+- • Planifier et exécuter des tests manuels sur les jeux d'_EA Mobile_ développés pour les plateformes web, iOS, J2ME et BREW.
+- • Supporter les testeurs, leur assigner des plans de test et veiller à ce que les différents processus soient respectés.
 
 `2006-2007`
 __Bug-Tracker__
 - _Testeur et Test Lead_
 -  
-- • Assurer la gestion d’une équipe de testeurs. 
-- • Élaborer les plans de test et les assigner. 
-- • Répondre aux questions des testeurs et les assister dans leurs tâches. 
-- • Gérer la base de données des bogues du projet. 
-- • Assurer la rédaction de rapports quotidiens destinés aux développeurs et établir avec eux les priorités du projet.
+- • Planifier et exécuter des tests manuels sur les jeux de nos clients développés notamment pour le PSP, Nintendo DS et PC.
+- • Supporter les testeurs, leur assigner des plans de test et veiller à ce que les différents processus soient respectés.
+- • Gérer la base de données des anomalies du projet. 
+- • Rédiger un rapport quotidien aux développeurs et établir avec eux les priorités du projet.
 
 `2004-2005`
 __Ubisoft__
 - _Testeur_
 -  
-- • Identifier et reproduire les bogues présents dans les jeux en test. 
-- • Documenter les bogues dans la base de données du projet.
-- • Participer à plusieurs projets sur différentes plateformes (PC, PS2, Xbox 360, GameBoy Advance, Nintendo DS).
+- • Exécuter des tests manuels sur les jeux d'_Ubisoft_, notamment ceux des franchises _Assassin's Creed_, _Splinter Cell_ et _King Kong_ sur PC, PS2, Xbox 360, GBA et Nintendo DS.
+- • Documenter les anomalies dans la base de données du projet et en assurer le suivi.
 
 
 <!-- ### Footer
