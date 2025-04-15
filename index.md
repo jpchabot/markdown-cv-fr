@@ -10,7 +10,7 @@ Analyste en Assistance Qualité
 <a href="mailto:jeanphilippe.chabot@gmail.com">jeanphilippe.chabot@gmail.com</a>
 | <a href="media/phone-call.gif" target="_blank">(438) 765-3456</a> 
 | <a href="https://www.linkedin.com/in/jean-philippe-chabot-2b0a7282/" target="_blank"> <img src="media/174857.png" alt="LinkedIn" style="width:25px; height:25px; vertical-align:middle;"> </a> 
-| <a href="https://jpchabot.github.io/markdown-cv-en/pdf/JP_Chabot_CV_FR.pdf" target="_blank"> <img src="media/174856.png" alt="PDF" style="width:30px; height:30px; vertical-align:middle;"> </a>
+| <a href="https://jpchabot.github.io/markdown-cv-fr/pdf/JP_Chabot_CV_FR.pdf" target="_blank"> <img src="media/174856.png" alt="PDF" style="width:30px; height:30px; vertical-align:middle;"> </a>
 </div>
 
 ## Qui suis-je?
