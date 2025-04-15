@@ -53,12 +53,12 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
+	font-size: 8pt;
+	line-height: 1.25em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 3em;
-	margin-bottom: 6em;
+	margin-top: 1.5em;
+	margin-bottom: 3em;
 }
 
 p {
