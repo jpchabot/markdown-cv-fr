@@ -14,7 +14,7 @@ Analyste en Assistance Qualité
 </div>
 
 
-## Qui suis-je
+## Qui suis-je?
 
 Un passionné des technologies, impliqué dans le QA depuis une vingtaine d'années, qui croit en une approche élargie reposant avant tout sur l'entraide et la communication. Je me colle à la réalité des développeurs et autres métiers afin de les supporter dans leurs activités, de la compréhension du besoin jusqu'à la livraison. J'estime que la confiance est un facteur principal dans l'efficacité d'une équipe et que mon rôle est d'augmenter la confiance en nos livrables et processus en amenant des solutions pratiques, créatives et adaptées à notre contexte. Étant aussi papa de quatre enfants à qui ma femme et moi faisons l'école-maison, j'ai à coeur les principes d'apprentissage en continu, du droit à l'erreur et de la bienveillance.
 
@@ -60,7 +60,8 @@ __RONA__ (en tant que conseiller Levio)
 - • Préparer les features et correctifs: critères d’acceptation, requis techniques et stratégie de test.
 - • Préparer les livraisons: gestion des branches et des merges, des approbations des parties prenantes et planification des déploiements.
 - • Fournir à l'ingénieur QA les règles d’affaires et requis techniques pour l’automatisation de scénarios bout-en-bout.
-- • Exécuter les tests manuels et les tests Postman automatisés, et en faire la maintenance.
+- • Tester manuellement les UIs et les APIs de la plateforme et leurs interactions avec les bases de données et autres APIs externes.
+- • Exécuter et maintenir les tests Postman automatisés.
 
 `2022 (9 mois)`
 __Banque Nationale__ (en tant que conseiller Levio)
@@ -131,7 +132,7 @@ __Bug-Tracker__
 __Ubisoft__
 - _Testeur_
 -  
-- • Exécuter des tests manuels sur les jeux d'_Ubisoft_, notamment ceux des franchises _Assassin's Creed_, _Splinter Cell_ et _King Kong_ sur PC, PS2, Xbox 360, GBA et Nintendo DS.
+- • Exécuter des tests manuels sur les jeux d'_Ubisoft_, notamment ceux des franchises _Prince of Persia_, _Splinter Cell_ et _King Kong_ sur PC, PS2, Xbox 360, GBA et Nintendo DS.
 - • Documenter les anomalies dans la base de données du projet et en assurer le suivi.
 
 
