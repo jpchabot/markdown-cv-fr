@@ -57,14 +57,14 @@ body {
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+	margin-top: 3em;
+	margin-bottom: 6em;
 }
 
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 55%;
 	text-align: justify;
@@ -72,16 +72,16 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #7e7e7e;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -5%;
 }
 
 
@@ -89,7 +89,7 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1.5em;
+	margin-bottom: 2em;
 	margin-top: -0.5em;
 }
 
@@ -103,10 +103,8 @@ ul {
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
-	margin-right: 7em;
-	/*padding-right: 7em;*/
-	/*color: #777;*/
+	text-indent: -0.85em;
+	width: 75%;
 }
 
 li ul {
@@ -128,6 +126,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: fit-content;
 }
 
 h1+p {
@@ -149,6 +148,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
+	color: #7e7e7e;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
@@ -171,6 +171,7 @@ a:hover {
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
+	width: fit-content;
 }
 
 #webaddress a {
@@ -178,21 +179,9 @@ a:hover {
 }
 
 em {
-	/* font-weight: bold; */
 	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
 }
-
-#address {
-	display: none;
-}
-
-
-
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
