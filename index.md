@@ -8,11 +8,10 @@ Analyste en Assistance Qualité
 
 <div id="webaddress">
 <a href="mailto:jeanphilippe.chabot@gmail.com">jeanphilippe.chabot@gmail.com</a>
-| <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25kOXY3eDdhOXFuajV6azN1aWkzNDhvcXo0cHZqbDhhNnh1bGU5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KwU7HpvgpMrOE/giphy.gif" target="_blank">(438) 765-3456</a> | <a href="https://www.linkedin.com/in/jean-philippe-chabot-2b0a7282/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;">
-</a>
+| <a href="media/phone-call.gif" target="_blank">(438) 765-3456</a> 
+| <a href="https://www.linkedin.com/in/jean-philippe-chabot-2b0a7282/" target="_blank"> <img src="media/174857.png" alt="LinkedIn" style="width:25px; height:25px; vertical-align:middle;"> </a> 
+| <a href="https://jpchabot.github.io/markdown-cv-en/pdf/JP_Chabot_CV_FR.pdf" target="_blank"> <img src="media/174856.png" alt="PDF" style="width:30px; height:30px; vertical-align:middle;"> </a>
 </div>
-
 
 ## Qui suis-je?
 
